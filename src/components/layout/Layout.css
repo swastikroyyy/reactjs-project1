@@ -1,0 +1,11 @@
+.layout {
+  display: grid;
+  grid-template-columns: 30% 60% 10%;
+  background-color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: auto;
+}
+.button {
+  cursor: pointer;
+}
