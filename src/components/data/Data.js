@@ -23,7 +23,7 @@ const Data = () => {
 
 
     const data = async () => {
-        await fetch('https://api.hatchways.io/assessment/students',
+        await fetch(',
             {
                 method: "get",
                 headers: { "Content-Type": "apllication/json" }
